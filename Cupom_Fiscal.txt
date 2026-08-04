@@ -1,0 +1,24 @@
+============================================================
+             SUPERMERCADO PYTHON
+============================================================
+
+Cliente: Armando
+Data: 04/08/2026
+Hora: 12:02:30
+
+ITENS COMPRADOS
+------------------------------------------------------------
+Carne Bovina (kg) | Qtd:2 | Unit:R$ 42.80 | Total:R$ 85.60
+Arroz 5kg | Qtd:1 | Unit:R$ 29.90 | Total:R$ 29.90
+Refrigerante 2L | Qtd:2 | Unit:R$ 11.99 | Total:R$ 23.98
+Frango Inteiro (kg) | Qtd:2 | Unit:R$ 17.90 | Total:R$ 35.80
+------------------------------------------------------------
+Quantidade de itens : 7
+Valor Bruto         : R$ 175.28
+Desconto            : 5%
+Economia            : R$ 8.76
+Desconto PIX        : R$ 0.00
+Valor Final         : R$ 166.52
+Pagamento           : Cartão de Crédito
+
+Obrigado pela preferência!
