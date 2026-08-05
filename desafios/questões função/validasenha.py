@@ -1,6 +1,4 @@
-# ==========================================
-# FUNÇÃO PARA VALIDAR SENHA
-# ==========================================
+
 
 def validar_senha():
     senha = input("Digite a senha: ")

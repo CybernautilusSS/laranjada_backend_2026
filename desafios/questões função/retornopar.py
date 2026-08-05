@@ -1,6 +1,4 @@
-# ==========================================
-# FUNÇÃO PARA CONTAR NÚMEROS PARES
-# ==========================================
+
 
 def contar_pares(inicio, fim):
     quantidade = 0

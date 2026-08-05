@@ -1,6 +1,4 @@
-# ==========================================
-# FUNÇÃO DE NÚMEROS ÍMPARES
-# ==========================================
+
 
 def imprimir_impares(n):
     for numero in range(1, n + 1):

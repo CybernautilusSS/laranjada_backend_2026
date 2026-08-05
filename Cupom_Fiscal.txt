@@ -2,22 +2,20 @@
              SUPERMERCADO PYTHON
 ============================================================
 
-Cliente: Sérgio
+Cliente: Jorge
 Data: 05/08/2026
-Hora: 07:52:46
+Hora: 14:37:01
 
 ITENS COMPRADOS
 ------------------------------------------------------------
-Cominho | Qtd:2 | Unit:R$ 4.79 | Total:R$ 9.58
-Bacon | Qtd:3 | Unit:R$ 29.90 | Total:R$ 89.70
-Couve-Flor | Qtd:2 | Unit:R$ 8.99 | Total:R$ 17.98
+Feijão Carioca 1kg | Qtd:3 | Unit:R$ 8.49 | Total:R$ 25.47
 ------------------------------------------------------------
-Quantidade de itens : 7
-Valor Bruto         : R$ 117.26
-Desconto            : 5%
-Economia            : R$ 5.86
-Desconto PIX        : R$ 3.34
-Valor Final         : R$ 108.06
+Quantidade de itens : 3
+Valor Bruto         : R$ 25.47
+Desconto            : 0%
+Economia            : R$ 0.00
+Desconto PIX        : R$ 0.76
+Valor Final         : R$ 24.71
 Pagamento           : PIX
 
 Obrigado pela preferência!
