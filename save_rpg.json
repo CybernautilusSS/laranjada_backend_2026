@@ -1,0 +1,67 @@
+{
+    "version": "1.0",
+    "gold": 156,
+    "day": 3,
+    "location": "Montanha",
+    "inventory": {
+        "Poção": 3,
+        "Éter": 2,
+        "Poção Grande": 1,
+        "Antídoto": 2,
+        "Elixir": 0
+    },
+    "victories": 1,
+    "defeats": 1,
+    "battle_number": 2,
+    "player": {
+        "name": "akashi",
+        "level": 1,
+        "max_hp": 170,
+        "hp": 170,
+        "max_mp": 40,
+        "mp": 40,
+        "attack": 25,
+        "defense": 14,
+        "magic": 5,
+        "speed": 8,
+        "xp": 73,
+        "xp_next": 100,
+        "critical": 8,
+        "statuses": []
+    },
+    "quests": [
+        {
+            "name": "Caçador de Goblins",
+            "description": "Derrote 5 Goblins.",
+            "target": "Goblin",
+            "required": 5,
+            "progress": 0,
+            "reward_gold": 100,
+            "reward_xp": 80,
+            "completed": false,
+            "claimed": false
+        },
+        {
+            "name": "Ameaça Sombria",
+            "description": "Derrote 3 Lobos Sombrios.",
+            "target": "Lobo",
+            "required": 3,
+            "progress": 0,
+            "reward_gold": 120,
+            "reward_xp": 100,
+            "completed": false,
+            "claimed": false
+        },
+        {
+            "name": "O Gigante",
+            "description": "Derrote um Golem.",
+            "target": "Golem",
+            "required": 1,
+            "progress": 0,
+            "reward_gold": 250,
+            "reward_xp": 220,
+            "completed": false,
+            "claimed": false
+        }
+    ]
+}
