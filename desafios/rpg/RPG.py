@@ -336,7 +336,7 @@ class Warrior(Character):
 
         self.mp -= cost
 
-        raw = self.attack + random.randint(14, 25)
+        raw = self.attack + random.randint(17, 25)
         damage = target.receive_damage(
             max(1, raw - target.defense)
         )
